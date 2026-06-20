@@ -38,7 +38,7 @@ You can view the full `design defense` here: [Design Defense (PDF)](https://gith
 
 
 ## Reflection
-In this project, not all of the code was created by me. The SNHU learning staff gave parts of the jupyter notebook and all of the supporting Python files. I was tasks with implementing the `Q-Training Algorithm` section of the Jupyter Notebook. In this section, I created my own implementation of a deep Q-learning algorithm to find the best possible navigation path.
+In this project, not all of the code was created by me. The SNHU learning staff gave parts of the jupyter notebook and all of the supporting Python files. I was tasked with implementing the `Q-Training Algorithm` section of the Jupyter Notebook. In this section, I created my own implementation of a deep Q-learning algorithm to find the best possible navigation path.
 1. I created the Initial environment state.
 2. I created a loop for the agent to run in while the game is not over.
 3. I used exploration and exploitation to determine the action the agent will take at each step.
@@ -46,4 +46,6 @@ In this project, not all of the code was created by me. The SNHU learning staff 
 5. I stored each episode inside the experience replay object
 6. I trained the network using experience replay
 7. I checked for completion.
+
+This project and course have taught me a lot about my journey as a computer scientist. 
 
