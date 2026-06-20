@@ -8,6 +8,8 @@ This project implements a Deep Reinforcement Learning agent to autonomously navi
 
 See the full Jupyter Notebook here: [TreasureHuntGame (ipynb)](https://github.com/crestongetz/dqn-treasure-maze/blob/6e85cf2c148dd8c8d6f47cb6f7b80c579f808dbd/notebooks/TreasureHuntGame.ipynb)
 
+Supporting code is in the src folder.
+
 ### How it works
 1. The pirate starts at the top of the maze. Valid moves yield standard rewards, while invalid moves, such as hitting a blocked path or going outside the boundary, yield penalties.
 2. The agent chooses to either explore a random adjacent cell or exploit what it knows.
