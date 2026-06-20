@@ -36,8 +36,14 @@ You can view the full `design defense` here: [Design Defense (PDF)](https://gith
 1. Test the agent on larger, more complex mazes
 2. Optimize for faster training
 
-## Notes
-Not all of the code was created by me. The SNHU learning staff gave parts of the game.
 
 ## Reflection
+In this project, not all of the code was created by me. The SNHU learning staff gave parts of the jupyter notebook and all of the supporting Python files. I was tasks with implementing the `Q-Training Algorithm` section of the Jupyter Notebook. In this section, I created my own implementation of a deep Q-learning algorithm to find the best possible navigation path.
+1. I created the Initial environment state.
+2. I created a loop for the agent to run in while the game is not over.
+3. I used exploration and exploitation to determine the action the agent will take at each step.
+4. I tracked wins and losses
+5. I stored each episode inside the experience replay object
+6. I trained the network using experience replay
+7. I checked for completion.
 
