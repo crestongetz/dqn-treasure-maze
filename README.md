@@ -32,7 +32,8 @@ You can view the full `design defense` here: [Design Defense (PDF)](https://gith
 1. Test the agent on larger, more complex mazes
 2. Optimize for faster training
 
-
+## Notes
+Not all of the code was created by me. The SNHU learning staff gave parts of the game.
 
 ## Reflection
 
