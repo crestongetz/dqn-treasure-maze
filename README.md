@@ -14,7 +14,7 @@ This project implements a Deep Reinforcement Learning agent to autonomously navi
 5. Over multiple episodes, the agent optimizes its pathfinding ability.
 
 ## Design Defense
-You can view the full `design defense` here: [Design Defense (PDF)]()
+You can view the full `design defense` here: [Design Defense (PDF)](https://github.com/crestongetz/dqn-treasure-maze/blob/0c8f60c1e32da9df4e337418a2745a380af3bbe8/Design%20Defense.pdf)
 
 ### Architecture 
 * **Deep Q-Network (DQN):** Built using Keras, the neural network predicts the best possible action or Q-value for any given state in the maze.
