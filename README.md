@@ -27,8 +27,8 @@ You can view the full `design defense` here: [Design Defense (PDF)](https://gith
 
 ## Tools/Frameworks used
 * Python
-* Keras / Deep Learning:
-* Jupyter Notebook:
+* Keras / Deep Learning
+* Jupyter Notebook
 * Reinforcement Learning / Deep Q-Learning
 * TensorFlow
 
@@ -47,5 +47,4 @@ In this project, not all of the code was created by me. The SNHU learning staff 
 6. I trained the network using experience replay
 7. I checked for completion.
 
-This project and course have taught me a lot about my journey as a computer scientist. 
-
+This course taught me a lot about my journey as a computer scientist. Recent advancements in AI and technology make me more excited than ever to be involved in this field. Computer scientists drive innovation and maintain the information systems that large populations rely upon. Crucially, I learned that considering the ethical, privacy, and security implications of software and AI is just as important as building them. I now approach problems with a broader societal, moral, and ethical viewpoint. I break problems down into small parts, considering not only the best way to build something, but who it affects and why. As AI and technology become increasingly critical to end users, organizations, and society, my ethical responsibilities increase. It has never been more important to consider these viewpoints.
