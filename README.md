@@ -26,6 +26,7 @@ You can view the full `design defense` here: [Design Defense (PDF)](https://gith
 * Keras / Deep Learning:
 * Jupyter Notebook:
 * Reinforcement Learning / Deep Q-Learning
+* TensorFlow
 
 ## Future Improvements
 1. Test the agent on larger, more complex mazes
