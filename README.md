@@ -6,7 +6,7 @@
 ## Overview
 This project implements a Deep Reinforcement Learning agent to autonomously navigate a complex, dynamic maze to locate a hidden treasure. By leveraging Q-learning algorithms paired with a deep neural network, the agent learns optimal pathfinding strategies through a balance of exploration and exploitation.
 
-See the full Jupyter Notebook here: [TreasureHuntGame (ipynb)](https://github.com/crestongetz/dqn-treasure-maze/blob/5c6b94e0e0de16601ab25f4cf325b6137a038820/notebooks/TreasureHuntGame.ipynb)
+See the full Jupyter Notebook here: [TreasureHuntGame (ipynb)](https://github.com/crestongetz/dqn-treasure-maze/blob/6e85cf2c148dd8c8d6f47cb6f7b80c579f808dbd/notebooks/TreasureHuntGame.ipynb)
 
 ### How it works
 1. The pirate starts at the top of the maze. Valid moves yield standard rewards, while invalid moves, such as hitting a blocked path or going outside the boundary, yield penalties.
